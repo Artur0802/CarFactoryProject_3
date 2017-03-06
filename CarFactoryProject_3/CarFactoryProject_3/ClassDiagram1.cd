@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CarFactoryProject_3.TuningItems.Tuning">
+    <Position X="14.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TuningItems\Tuning.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CarFactoryProject_3.TuningItems.TuningParts.Turbo">
+    <Position X="16" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TuningItems\TuningParts\Turbo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarFactoryProject_3.TuningItems.TuningParts.Spoiler">
+    <Position X="14.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TuningItems\TuningParts\Spoiler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarFactoryProject_3.TuningItems.TuningParts.AudioSystem">
+    <Position X="12.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TuningItems\TuningParts\AudioSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarFactoryProject_3.PartFactories.WheelFactories.WheelFactory">
+    <Position X="5.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEgAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PartFactories\WheelFactories\WheelFactory.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CarFactoryProject_3.PartFactories.EngineFactories.EngineFactory">
+    <Position X="9" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEgAAAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PartFactories\EngineFactories\EngineFactory.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CarFactoryProject_3.PartFactories.CarBodyFactory.BodyFactory">
+    <Position X="1.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PartFactories\BodyFactories\BodyFactory.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CarFactoryProject_3.CarParts.SimpleBody" Collapsed="true">
+    <Position X="0.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CarParts\SimpleBody.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarFactoryProject_3.CarParts.TunedBody" Collapsed="true">
+    <Position X="2.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CarParts\TunedBody.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarFactoryProject_3.CarParts.SimpleWheel" Collapsed="true">
+    <Position X="4.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CarParts\SimpleWheel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarFactoryProject_3.CarParts.TunedWheel" Collapsed="true">
+    <Position X="6.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CarParts\TunedWheel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarFactoryProject_3.CarParts.SimpleEngine" Collapsed="true">
+    <Position X="8" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CarParts\SimpleEngine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarFactoryProject_3.CarParts.TunedEngine" Collapsed="true">
+    <Position X="10" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CarParts\TunedEngine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="CarFactoryProject_3.IItemPrice.IPrice" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IItemPrice\IPrice.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CarFactoryProject_3.IAssemblyItem.IAssembly" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>IAssemblyItem\IAssembly.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CarFactoryProject_3.PartFactories.IPartFactory">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PartFactories\IPartFactory.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
